@@ -1,0 +1,5 @@
+n,original_function_calls,redesign_additions,operation_ratio,original_time_seconds_reported,redesign_time_seconds_reported,time_ratio_reported,answers_match
+10,177,9,20,3.2e-05,4e-07,80,True
+20,21891,19,1152,0.003812,6.7e-07,5706,True
+25,242785,24,10116,0.042661,8.1e-07,52799,True
+30,2692537,29,92846,0.495417,9.2e-07,539670,True
