@@ -42,5 +42,3 @@ python Q7/q7_redesign.py
 - **Q5:** using `None` as a default prevents customer orders from sharing one mutable list.
 - **Q6:** memoisation avoids repeated recursive work; the iterative solution handles n=1000 without recursion depth changes.
 - **Q7:** the bottom-up redesign uses n−1 additions and O(1) extra space, and is checked against the reference recurrence.
-
-**Note:** Timing measurements depend on the computer and Python build. Re-run the benchmark files on the submission computer and replace timing figures with those measured there. The CSV includes the assignment report's recorded observations. Screenshots should be captured from the student's own runs; none are fabricated in this package.
